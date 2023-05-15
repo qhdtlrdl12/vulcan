@@ -30,6 +30,10 @@ public class EUCKRvsMS949 {
 		
 		byte[] array1 = "안녕".getBytes();
         System.out.println(array1.length);
+        System.out.println("깃허브 출력 용가리치킨");
+        System.out.println("깃허브 출력 용가리치킨");
+        System.out.println("깃허브 출력 용가리치킨");
+        System.out.println("깃허브 출력 용가리치킨");
 	}
 
 }
